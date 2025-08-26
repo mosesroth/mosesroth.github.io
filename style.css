@@ -72,6 +72,15 @@ h1 a {
     margin-bottom: 1rem;
 }
 
+.bio a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.bio a:hover {
+    text-decoration: underline;
+}
+
 .divider {
     height: 1px;
     background-color: #eee;
@@ -123,7 +132,7 @@ nav {
 
 .nav-link {
     text-decoration: none;
-    color: #333;
+    color: #0066cc;
     font-weight: 500;
     padding: 0.5rem 1rem;
     border-radius: 4px;
@@ -171,7 +180,7 @@ h2 {
 }
 
 .content-item h3 a {
-    color: #333;
+    color: #0066cc;
     text-decoration: none;
 }
 
